@@ -21,3 +21,7 @@ Second step: Implement the formulas in javaScript
 Third step: Create functions
 Fourth step: Integrate javaScript with HTML
 
+## workshop #4: Anlysis and salary.
+ All of the above functions are used to develop a basic analysis of Colombian (fictitious) wages.
+
+
